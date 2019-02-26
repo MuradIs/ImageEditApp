@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MemeApp</string>
+    <string name="tryText">Try</string>
+    <string name="addText">Add</string>
+    <string name="top_text">Top Text</string>
+    <string name="save">Save</string>
+    <string name="bottom_text">Bottom Text</string>
+</resources>
